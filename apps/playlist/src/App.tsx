@@ -7,7 +7,8 @@ import { MoviesContent } from "movies-content";
 function App() {
   return (
     <AppShell
-      title="Movies"
+      title="Playlist"
+      colorScheme="dark"
       routes={[
         {
           path: "/",
