@@ -1,5 +1,5 @@
 {
-  "name": "ui",
+  "name": "card",
   "version": "0.0.0",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -21,7 +21,6 @@
   },
   "dependencies": {
     "@mantine/core": "^4.2.6",
-    "@mantine/hooks": "^4.2.6",
-    "react-router-dom": "^6.3.0"
+    "@mantine/hooks": "^4.2.6"
   }
 }
